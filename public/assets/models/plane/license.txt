@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plane Crashes In Water - Animated Scene Building
+* source:	https://sketchfab.com/3d-models/plane-crashes-in-water-animated-scene-building-ad749975006d415fa654015ff7d5e9e8
+* author:	Twin Dragon Studios (https://sketchfab.com/RHALL)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plane Crashes In Water - Animated Scene Building" (https://sketchfab.com/3d-models/plane-crashes-in-water-animated-scene-building-ad749975006d415fa654015ff7d5e9e8) by Twin Dragon Studios (https://sketchfab.com/RHALL) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
